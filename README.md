@@ -24,7 +24,7 @@ An online shopping portal designed for an enhanced customer experience, offering
 ### [Plant Encyclopedia](https://plante-kingdom.vercel.app/) ✨
 A comprehensive plant encyclopedia offering detailed information on plant species, with search and filter functionalities for plant enthusiasts and researchers.
 
-### [Post Data Powered Data Founder](https://postal-dashboard.vercel.app/) ✨
+### [Postal dashboard](https://postal-dashboard.vercel.app/) ✨
 A powerful postal data dashboard designed to process and visualize postal data for better insights and decision-making.
 
 ### [Smart Goal Planning Portal](https://goalplanner.vercel.app/) ✨
