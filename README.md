@@ -6,11 +6,11 @@
 
 ## Expertise
 
-- **Backend Development**: Nest.js, Node.js
+- **Backend Development**: Nest.js, Node.js, flask
 - **Frontend Development**: Angular, React.js
 - **Web Design**
 - **Android Development**: React Native
-- **Database**: Neo4j
+- **Database**: Neo4j, clickhouse, mongodb
 - **Hosting**: Vercel
 - **NPM Package Creation**
 
