@@ -16,6 +16,20 @@
 
 I’m committed to delivering clean, efficient, and well-documented code, always aiming for optimal performance and maintainability.
 
+## Projects 🔭
+
+### [Smart Shop](https://cyborgcart.vercel.app/) ✨
+An online shopping portal designed for an enhanced customer experience, offering a wide range of products with user-friendly navigation and seamless transactions.
+
+### [Plant Encyclopedia](https://plante-kingdom.vercel.app/) ✨
+A comprehensive plant encyclopedia offering detailed information on plant species, with search and filter functionalities for plant enthusiasts and researchers.
+
+### [Post Data Powered Data Founder](https://postal-dashboard.vercel.app/) ✨
+A powerful postal data dashboard designed to process and visualize postal data for better insights and decision-making.
+
+### [Smart Goal Planning Portal](https://goalplanner.vercel.app/) ✨
+An intuitive platform to set, track, and manage goals efficiently, designed to help users stay organized and achieve their personal and professional milestones.
+
 
 <!--
 **Bhandekunal16/bhandekunal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
