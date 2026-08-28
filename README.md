@@ -50,6 +50,12 @@ A web-based encoding and decoding platform that transforms text into **numeric-i
 
 An interactive playground for experimenting with **Robotic Creator**, a JavaScript/NPM package that transforms text into customizable ASCII-art patterns for console interfaces, educational tools, and text-rendering use cases.
 
+### 🔑 Authenticator Lab
+
+🔗 [Live Project](https://authanticator-lab.vercel.app/)
+
+An authentication-focused web application and developer project for exploring **authentication workflows and security concepts**.
+
 ## Open Source / NPM Packages 📦
 
 ### 🤖 robotic-creater
