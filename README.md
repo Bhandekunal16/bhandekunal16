@@ -1,47 +1,81 @@
-## Hi there 👋
+# Hi there 👋
 
-# About Me
+## About Me
 
-**Passionate Software Developer** with 2 years of hands-on experience in building high-quality, scalable applications. I specialize in backend and frontend development, as well as mobile app design.
+**Software Developer | Full-Stack Engineer** with hands-on experience building scalable, maintainable applications across frontend, backend, and developer tooling.
+
+I specialize in designing and developing modern web applications using **Angular, React, Node.js, and NestJS**, with experience working with **MongoDB, Neo4j, ClickHouse, AWS, and Docker**.
+
+I also enjoy building **open-source NPM packages, developer tools, APIs, and self-hosted web applications**.
 
 ## Expertise
 
-- **Backend Development**: Nest.js, Node.js, flask
-- **Frontend Development**: Angular, React.js
-- **Web Design**
-- **Android Development**: React Native
-- **Database**: Neo4j, clickhouse, mongodb
-- **Hosting**: Vercel
-- **NPM Package Creation**
-
-I’m committed to delivering clean, efficient, and well-documented code, always aiming for optimal performance and maintainability.
+* **Frontend Development:** Angular, React.js, React Native
+* **Backend Development:** Node.js, NestJS, Flask
+* **Languages:** JavaScript, TypeScript, Python, SQL, CSS, JSON, Cypher
+* **Databases:** MongoDB, Neo4j, ClickHouse
+* **Cloud & Infrastructure:** AWS, EC2, S3, Docker, Vercel
+* **Tools & Platforms:** npm, GitHub, GitLab
+* **Other:** NPM Package Development, Pandas
 
 ## Projects 🔭
 
-### [Smart Shop](https://cyborgcart.vercel.app/) ✨
-An online shopping portal designed for an enhanced customer experience, offering a wide range of products with user-friendly navigation and seamless transactions.
+### 📦 NPM Package Analytics
 
-### [Plant Encyclopedia](https://plante-kingdom.vercel.app/) ✨
-A comprehensive plant encyclopedia offering detailed information on plant species, with search and filter functionalities for plant enthusiasts and researchers.
+🔗 [Live Project](https://npm-package-analytics.vercel.app/)
 
-### [Postal dashboard](https://postal-dashboard.vercel.app/) ✨
-A powerful postal data dashboard designed to process and visualize postal data for better insights and decision-making.
+A web analytics platform for exploring **NPM package statistics and download activity**, providing package-level insights to understand adoption and ecosystem trends.
 
-### [Smart Goal Planning Portal](https://goalplanner.vercel.app/) ✨
-An intuitive platform to set, track, and manage goals efficiently, designed to help users stay organized and achieve their personal and professional milestones.
+### 🎵 FluxTube — YouTube-Powered Music App
 
+🔗 [Live Project](https://flux--tube.vercel.app/)
 
-<!--
-**Bhandekunal16/bhandekunal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A focused music discovery and playback application powered by **YouTube**, supporting searches across songs, artists, and music-related queries through a streamlined listening interface.
 
-Here are some ideas to get you started:
+### 🖼️ CDNByte — Free Image CDN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Live Project](https://cdnbyte.vercel.app/)
+
+A lightweight image CDN service for **hosting and serving images through CDN-backed URLs**, designed for simple integration, fast delivery, and an easy-to-use workflow.
+
+### 🔐 Word Encoder
+
+🔗 [Live Project](https://encoder-umber.vercel.app/)
+
+A web-based encoding and decoding platform that transforms text into **numeric-index representations** and restores encoded values, with API guidance for programmatic integration.
+
+### 🤖 Robotic Creator Playground
+
+🔗 [Live Playground](https://robotic-creater-playground.vercel.app/)
+
+An interactive playground for experimenting with **Robotic Creator**, a JavaScript/NPM package that transforms text into customizable ASCII-art patterns for console interfaces, educational tools, and text-rendering use cases.
+
+## Open Source / NPM Packages 📦
+
+### 🤖 robotic-creater
+
+A JavaScript package that transforms text into customizable **ASCII-art patterns**, making it useful for console-based interfaces, educational tools, and text-rendering applications.
+
+### 🔤 word-encoder
+
+A text transformation library for **encoding and decoding** using a custom character-index mapping system.
+
+### 🗄️ roboticdb
+
+A modular data-management library supporting **collection handling, CRUD operations, CSV import/export, and object storage, manipulation, and transformation**.
+
+## Experience 💼
+
+**Software Developer | Frontend Lead**
+
+Currently working on scalable frontend and full-stack applications, including enterprise and banking platforms, with a focus on architecture, maintainability, performance, and technical problem-solving.
+
+## Let's Connect 🤝
+
+* 💻 [GitHub](https://github.com/Bhandekunal16)
+* 💼 [LinkedIn](https://linkedin.com/in/kunal-bhande)
+* 📦 [NPM](https://www.npmjs.com/)
+
+---
+
+⭐ Feel free to explore my projects and NPM packages!
